@@ -1,0 +1,16 @@
+target/
+*.class
+*.war
+*.ear
+*.log
+.DS_Store
+nbproject/private/
+.idea/
+*.iml
+.env
+src/main/resources/db.properties
+src/main/resources/email.properties
+src/main/java/Models/Attribute.java
+src/main/java/Models/Attribute.java
+/src/main/java/Models
+src/main/java/Models/Attribute.java
